@@ -1,545 +1,572 @@
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=ISHIKA%20CHAUDHARY&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BUILDING%20IDEAS%20INTO%20REAL%20PROJECTS&descAlignY=62&descSize=16&color=0:050816,45:0f172a,100:06b6d4"/>
+<!--                    ISHIKA CHAUDHARY PROFILE                    -->
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=850&lines=2nd+Year+B.Tech+CSE+Core;Creative+Web+%26+AI+Builder;Learning+Python+%26+DSA;Exploring+Artificial+Intelligence;Frontend+%E2%86%92+Backend+in+Progress;Turning+Ideas+Into+Experiences+%F0%9F%9A%80"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/STATUS-BUILDING-22d3ee?style=for-the-badge&labelColor=050816">
-<img src="https://img.shields.io/badge/MODE-LEARNING-8b5cf6?style=for-the-badge&labelColor=050816">
-<img src="https://img.shields.io/badge/FOCUS-DEVELOPMENT-f59e0b?style=for-the-badge&labelColor=050816">
-
-<br><br>
-
-<a href="#-ishikaos">SYSTEM</a> • <a href="#-project-command-center">PROJECTS</a> • <a href="#-tech-matrix">STACK</a> • <a href="#-github-telemetry">ACTIVITY</a> • <a href="#-placement-mode">PLACEMENT</a> • <a href="#-connect">CONNECT</a>
-
-</div>
-
----
-
-<div align="center">
-
-## `◉ SYSTEM BOOT`
-
-</div>
-
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                     ISHIKA.OS v1.0                           │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  > Initializing developer profile................. [ OK ]    │
-│  > Loading creativity............................. [ OK ]    │
-│  > Loading curiosity.............................. [ OK ]    │
-│  > Loading problem solving........................ [ OK ]    │
-│  > Loading project engine......................... [ OK ]    │
-│  > Loading Python................................ [ ACTIVE ] │
-│  > Loading DSA................................... [ ACTIVE ] │
-│  > Loading AI.................................... [ EXPLORING ]│
-│                                                              │
-│  SYSTEM STATUS : ONLINE                                      │
-│  DEVELOPER MODE: BUILDING                                   │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
-
----
-
-# `01 // ISHIKA.OS`
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-```text
-┌──────────────────────────────┐
-│        DEVELOPER.ID          │
-├──────────────────────────────┤
-│                              │
-│ NAME                         │
-│ Ishika Chaudhary             │
-│                              │
-│ EDUCATION                    │
-│ B.Tech CSE Core              │
-│ Year 02                      │
-│                              │
-│ CURRENT MODE                 │
-│ Learn • Build • Experiment   │
-│                              │
-│ PRIMARY FOCUS                │
-│ Development + DSA            │
-│                              │
-└──────────────────────────────┘
-```
-
-</td>
-
-<td width="50%">
-
-```text
-┌──────────────────────────────┐
-│        CURRENT SIGNALS       │
-├──────────────────────────────┤
-│                              │
-│ ● PYTHON       LEARNING      │
-│ ● DSA          TRAINING      │
-│ ● FRONTEND     BUILDING      │
-│ ● AI           EXPLORING     │
-│ ● BACKEND      NEXT         │
-│ ● PROJECTS     ACTIVE        │
-│                              │
-└──────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# `02 // DEVELOPER DNA`
-
-<div align="center">
-
-```text
-CREATIVE BUILDING        ████████████░░
-PROBLEM SOLVING          ██████████░░░░
-PYTHON                   ████████░░░░░░
-DSA                      ███████░░░░░░░
-FRONTEND                 ██████████░░░░
-AI EXPLORATION           ███████░░░░░░░
-BACKEND                  █████░░░░░░░░░
-```
-
-<sub>Progress bars represent current learning focus — not professional skill ratings.</sub>
-
-</div>
-
----
-
-# `03 // PROJECT COMMAND CENTER`
-
-> **Real repositories. Real experiments. Constantly evolving.**
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### `VELoura`
-
-**AI Glow-Up Coach**
-
-```text
-TYPE      → AI / PRODUCT
-STATUS    → BUILDING
-ROLE      → CREATIVE WEB PROJECT
-```
-
-An AI-focused glow-up / self-improvement product experience.
-
-<a href="https://github.com/Ishika-143/veloura">`[ SOURCE ]`</a> <a href="https://veloura-ruddy.vercel.app">`[ LIVE ]`</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### `VELoura-AI`
-
-**AI Product Experiment**
-
-```text
-TYPE      → AI / WEB
-STATUS    → EXPERIMENT
-ROLE      → PRODUCT BUILD
-```
-
-A separate repository in the Veloura project ecosystem.
-
-<a href="https://github.com/Ishika-143/veloura-ai">`[ SOURCE ]`</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### `FitAI`
-
-**Fitness / AI Experiment**
-
-```text
-TYPE      → AI / FITNESS
-STATUS    → EXPERIMENT
-ROLE      → PRODUCT IDEA
-```
-
-Exploring the intersection of fitness, technology and AI.
-
-<a href="https://github.com/Ishika-143/fitai">`[ SOURCE ]`</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### `FitAI Transform`
-
-**Web Experiment**
-
-```text
-TYPE      → WEB
-STATUS    → BUILDING
-ROLE      → INTERFACE
-```
-
-A web-focused iteration in the FitAI project line.
-
-<a href="https://github.com/Ishika-143/fitai-transform">`[ SOURCE ]`</a>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# `04 // BUILD PIPELINE`
-
-```text
-                 ┌─────────────┐
-                 │    IDEA     │
-                 └──────┬──────┘
-                        ↓
-                 ┌─────────────┐
-                 │   DESIGN    │
-                 └──────┬──────┘
-                        ↓
-                 ┌─────────────┐
-                 │    BUILD    │
-                 └──────┬──────┘
-                        ↓
-                 ┌─────────────┐
-                 │    TEST     │
-                 └──────┬──────┘
-                        ↓
-                 ┌─────────────┐
-                 │   DEPLOY    │
-                 └──────┬──────┘
-                        ↓
-                 ┌─────────────┐
-                 │   IMPROVE   │
-                 └──────┬──────┘
-                        │
-                        └──────────────→ REPEAT ∞
-```
-
----
-
-# `05 // TECH MATRIX`
-
-<div align="center">
-
-### `LANGUAGES & DEVELOPMENT`
-
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode&perline=8"/>
-
-<br><br>
-
-### `CURRENT LEARNING`
-
-`PYTHON` • `DSA` • `FRONTEND`
-
-### `NEXT UNLOCKS`
-
-`BACKEND` • `APIs` • `DATABASES`
-
-### `EXPLORING`
-
-`AI` • `PRODUCT DEVELOPMENT` • `CREATIVE WEB`
-
-</div>
-
----
-
-# `06 // GITHUB TELEMETRY`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ishika-143&show_icons=true&hide_border=true&theme=transparent&title_color=22D3EE&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishika-143&layout=compact&hide_border=true&theme=transparent&title_color=22D3EE&text_color=C9D1D9"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Ishika-143&hide_border=true&theme=transparent&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=64748B"/>
-
-</div>
-
----
-
-# `07 // CONTRIBUTION NETWORK`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishika-143&bg_color=050816&color=22d3ee&line=8b5cf6&point=ffffff&area=true&hide_border=true&custom_title=ISHIKA%20//%20CONTRIBUTION%20NETWORK"/>
-
-</div>
-
----
-
-# `08 // PLACEMENT MODE`
-
-<div align="center">
-
-```text
-╔════════════════════════════════════════════════════╗
-║                 CAREER ENGINE                      ║
-╠════════════════════════════════════════════════════╣
-║                                                    ║
-║  DSA / ALGORITHMS          → TRAINING              ║
-║  PYTHON                    → ACTIVE                ║
-║  COMPUTER SCIENCE CORE     → LEARNING             ║
-║  DEVELOPMENT               → BUILDING             ║
-║  PROJECTS                  → ACTIVE                ║
-║  AI                        → EXPLORING             ║
-║  BACKEND                   → NEXT MISSION          ║
-║                                                    ║
-╚════════════════════════════════════════════════════╝
-```
-
-</div>
-
-### `CORE CS`
-
-`DSA` • `OOP` • `OPERATING SYSTEMS` • `COMPUTER ARCHITECTURE` • `DATABASE CONCEPTS`
-
----
-
-# `09 // CURRENT MISSION`
-
-<div align="center">
-
-| MODULE                         |    STATE    |
-| :----------------------------- | :---------: |
-| 🧠 Strengthen Python           |   `ACTIVE`  |
-| ⚡ Learn DSA                    |   `ACTIVE`  |
-| 🎨 Become stronger at Frontend |  `BUILDING` |
-| 🔧 Start Backend               |    `NEXT`   |
-| 🤖 Explore AI                  | `EXPLORING` |
-| 🚀 Build Meaningful Projects   |   `ACTIVE`  |
-| 💼 Prepare for Internships     |  `UPCOMING` |
-
-</div>
-
----
-
-# `10 // ISHIKA LAB`
-
-<div align="center">
-
-```text
-╭────────────────────────────────────────────────────╮
-│                   ISHIKA LAB                       │
-├────────────────────────────────────────────────────┤
-│                                                    │
-│       WHAT IF...?                                  │
-│           ↓                                        │
-│       PROTOTYPE                                    │
-│           ↓                                        │
-│       BUILD IT                                     │
-│           ↓                                        │
-│       BREAK IT                                     │
-│           ↓                                        │
-│       DEBUG IT                                     │
-│           ↓                                        │
-│       LEARN                                        │
-│           ↓                                        │
-│       BUILD BETTER                                 │
-│                                                    │
-╰────────────────────────────────────────────────────╯
-```
-
-</div>
-
----
-
-# `11 // ACHIEVEMENT ENGINE`
-
-```text
-╭──────────────────────────────────────────────────────╮
-│                  UNLOCK SYSTEM                       │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  [✓] GitHub Developer Profile                        │
-│  [✓] Started Building Projects                       │
-│  [✓] AI / Web Experiments                            │
-│                                                      │
-│  [~] Portfolio Deployment                            │
-│  [~] First Major Product                             │
-│  [~] First Hackathon                                 │
-│  [~] 100 DSA Problems                                │
-│  [~] Open Source Contribution                         │
-│  [~] Internship                                      │
-│                                                      │
-│  [🔒] SECRET ACHIEVEMENT                             │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-```
-
----
-
-# `12 // KNOWN BUGS`
-
-<details>
-<summary>🐛 OPEN BUG REPORT</summary>
-
-```text
-BUG_001
-"One more feature" syndrome.
-
-BUG_002
-Starting with a simple idea...
-ending with a full product.
-
-BUG_003
-Fixing one bug creates three new ones.
-
-BUG_004
-Random 2 AM ideas receive
-unreasonably high priority.
-
-STATUS:
-KNOWN
-EXPECTED
-STILL BUILDING
-```
-
-</details>
-
----
-
-# `13 // SECRET TERMINAL`
-
-<details>
-<summary>🔐 $ sudo reveal_secret</summary>
-
-<br>
-
-```bash
-$ sudo reveal_secret
-
-ACCESS GRANTED.
-
-> You found the hidden layer.
-
-RULE_01:
-Build before you feel ready.
-
-RULE_02:
-Every bug teaches something.
-
-RULE_03:
-Don't just collect tutorials.
-Build things.
-
-SYSTEM MESSAGE:
-Keep shipping. 🚀
-```
-
-</details>
-
----
-
-# `14 // ROADMAP`
-
-<div align="center">
-
-```text
-2026
-│
-├── Python
-├── DSA
-├── Frontend
-├── Portfolio
-├── AI Experiments
-├── Backend
-└── More Real Projects
-       │
-       ▼
-2027
-│
-├── Advanced Projects
-├── Hackathons
-├── Open Source
-├── Internship
-└── Stronger Engineering Skills
-       │
-       ▼
-      ∞
-```
-
-</div>
-
----
-
-# `15 // OPEN TO OPPORTUNITIES`
-
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────┐
-│             OPPORTUNITY.STATUS               │
-├──────────────────────────────────────────────┤
-│                                              │
-│  INTERNSHIPS       → OPEN                    │
-│  HACKATHONS        → OPEN                    │
-│  COLLABORATIONS    → OPEN                    │
-│  PROJECT IDEAS     → OPEN                    │
-│  OPEN SOURCE       → EXPLORING               │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-# `16 // CONNECT`
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <a href="https://github.com/Ishika-143">
-<img src="https://img.shields.io/badge/GitHub-Ishika--143-050816?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,45:111827,100:312e81&text=ISHIKA%20CHAUDHARY&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=BUILDING%20THE%20DEVELOPER%20I%20WANT%20TO%20BECOME&descAlignY=58&descSize=13&animation=twinkling" width="100%"/>
+
 </a>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Computer+Science+Undergraduate;Frontend+%7C+Python+%7C+DSA;AI+%26+Creative+Product+Builder;Learning+by+Building+%E2%80%94+One+Project+at+a+Time;Currently+Turning+Ideas+into+Interfaces" />
 
 <br><br>
 
-**More links will be added as the developer network grows.**
+<a href="https://github.com/Ishika-143">
+<img src="https://komarev.com/ghpvc/?username=Ishika-143&label=PROFILE%20VIEWS&color=8b5cf6&style=for-the-badge" />
+</a>
+
+<a href="https://github.com/Ishika-143?tab=followers">
+<img src="https://img.shields.io/github/followers/Ishika-143?style=for-the-badge&logo=github&label=FOLLOWERS&color=111827" />
+</a>
+
+<a href="https://github.com/Ishika-143?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-9-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<!-- ───────────────────────── NAVIGATION ───────────────────────── -->
+
+<div align="center">
+
+**[ABOUT](#-developer-dashboard)**　•　
+**[PROJECTS](#-things-im-building)**　•　
+**[STACK](#-tech-stack)**　•　
+**[GITHUB](#-github-live-feed)**　•　
+**[ROADMAP](#-current-build)**
+
+</div>
+
+<br>
+
+---
+
+# ◈ DEVELOPER DASHBOARD
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### `ISHIKA.OS`
+
+```text
+┌─────────────────────────────────────┐
+│  SYSTEM STATUS                      │
+│                                     │
+│  USER      →  Ishika Chaudhary     │
+│  ROLE      →  CSE Undergraduate     │
+│  YEAR      →  02                    │
+│  MODE      →  BUILD                 │
+│  FOCUS     →  FRONTEND + DSA        │
+│  EXPLORING →  PYTHON + AI           │
+│  NEXT      →  BACKEND               │
+│                                     │
+│  STATUS    →  ● ONLINE              │
+└─────────────────────────────────────┘
+```
+
+</td>
+
+<td width="45%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ishika-143&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=9CA3AF&icon_color=8B5CF6&rank_icon=github" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### `DEVELOPER DNA`
+
+<img src="https://img.shields.io/badge/BUILD-FIRST-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/FRONTEND-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/CREATIVE-4C1D95?style=flat-square"/>
+
+</div>
+
+<br>
+
+---
+
+# ◈ THINGS I'M BUILDING
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/Ishika-143/veloura">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ishika-143&repo=veloura&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=9CA3AF&icon_color=8B5CF6" width="100%"/>
+
+</a>
+
+**VELoura**
+
+AI Glow-Up Coach concept focused on creating a more personalized beauty / self-improvement experience.
+
+<a href="https://veloura-ruddy.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/Ishika-143/veloura-ai">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ishika-143&repo=veloura-ai&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=9CA3AF&icon_color=8B5CF6" width="100%"/>
+
+</a>
+
+**VELOURA AI**
+
+The experimental build behind the Veloura concept — exploring AI-assisted product experiences.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/Ishika-143/fitai">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ishika-143&repo=fitai&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=9CA3AF&icon_color=8B5CF6" width="100%"/>
+
+</a>
+
+**FITAI**
+
+An exploration into AI-powered fitness / wellness product interfaces.
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/Ishika-143/fitai-transform">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ishika-143&repo=fitai-transform&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=9CA3AF&icon_color=8B5CF6" width="100%"/>
+
+</a>
+
+**FITAI TRANSFORM**
+
+Frontend experimentation around the FitAI concept.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Ishika-143?tab=repositories">
+
+<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-%E2%86%92-111827?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
 
 </div>
 
 ---
 
+# ◈ TECH STACK
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Thanks+for+entering+ISHIKA.OS.;Keep+building.+Keep+learning.+Keep+shipping.;The+next+commit+is+already+loading...+%F0%9F%9A%80"/>
+### `BUILDING WITH`
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode&theme=dark&perline=8" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,100:050816"/>
+### `CURRENTLY LEVELING UP`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=700&color=8B5CF6&center=true&vCenter=true&width=600&lines=Python+%E2%86%92+DSA;Frontend+%E2%86%92+Advanced+UI;DSA+%E2%86%92+Problem+Solving;Backend+%E2%86%92+Next+Mission;AI+%E2%86%92+Explore+%26+Experiment" />
 
 </div>
+
+<br>
+
+---
+
+# ◈ DEVELOPER MODE
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### `01`
+
+**LEARN**
+
+CS fundamentals
+Python
+DSA
+Web development
+
+</td>
+
+<td width="33%" align="center">
+
+### `02`
+
+**BUILD**
+
+Creative websites
+AI experiments
+Useful applications
+Product concepts
+
+</td>
+
+<td width="33%" align="center">
+
+### `03`
+
+**SHIP**
+
+Deploy
+Document
+Improve
+Repeat
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=I+don't+want+to+just+learn+technology.;I+want+to+turn+ideas+into+things+people+can+use." />
+
+</div>
+
+---
+
+# ◈ GITHUB LIVE FEED
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishika-143&theme=transparent&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6" width="75%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishika-143&bg_color=00000000&color=9CA3AF&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishika-143&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=9CA3AF&langs_count=8"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishika-143&theme=tokyonight" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ◈ TROPHY ROOM
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ishika-143&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%"/>
+
+</div>
+
+---
+
+# ◈ THE ROADMAP
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### `NOW`
+
+🟣 Python
+🟣 DSA
+🟣 Frontend
+🟣 GitHub
+
+</td>
+
+<td align="center" width="25%">
+
+### `NEXT`
+
+🔵 Backend
+🔵 Databases
+🔵 APIs
+🔵 Full Stack
+
+</td>
+
+<td align="center" width="25%">
+
+### `BUILD`
+
+🟢 Portfolio
+🟢 StudySync
+🟢 AI Products
+🟢 Hackathons
+
+</td>
+
+<td align="center" width="25%">
+
+### `TARGET`
+
+🟠 Internships
+🟠 Strong DSA
+🟠 Real Projects
+🟠 Placement Ready
+
+</td>
+</tr>
+</table>
+
+---
+
+# ◈ CURRENT BUILD
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=700&color=8B5CF6&center=false&vCenter=true&width=700&lines=%5B01%5D+Building+my+developer+portfolio;%5B02%5D+Improving+DSA+with+Python;%5B03%5D+Going+deeper+into+frontend;%5B04%5D+Preparing+for+backend;%5B05%5D+Turning+ideas+into+real+projects" />
+
+<br>
+
+<details>
+<summary><b>⚡ What I'm working toward</b></summary>
+
+<br>
+
+```text
+2026
+│
+├── Strong Python fundamentals
+├── DSA + problem solving
+├── Advanced frontend
+├── Personal portfolio
+├── Backend fundamentals
+├── StudySync
+└── More real-world projects
+
+2027+
+│
+├── Internships
+├── Hackathons
+├── Full-stack projects
+├── AI-powered products
+└── Industry-ready engineering
+```
+
+</details>
+
+---
+
+# ◈ COMPUTER SCIENCE CORE
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DATA%20STRUCTURES-111827?style=for-the-badge&logo=databricks&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/OPERATING%20SYSTEMS-111827?style=for-the-badge&logo=linux&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/COA-111827?style=for-the-badge&logo=cpu&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/OOP-111827?style=for-the-badge&logo=java&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/DATABASES-111827?style=for-the-badge&logo=postgresql&logoColor=8B5CF6"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+> **Learn the fundamentals. Build with them. Then build beyond them.**
+
+</div>
+
+---
+
+# ◈ ISHIKA LAB
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=600&color=8B5CF6&center=true&vCenter=true&width=650&lines=EXPERIMENTS+%2F+IDEAS+%2F+PROTOTYPES;NOT+EVERYTHING+NEEDS+TO+BE+PERFECT;SOME+THINGS+JUST+NEED+TO+BE+BUILT" />
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 EXPERIMENTS
+
+* AI product concepts
+* UI experiments
+* Frontend interactions
+* Python practice
+* Data / ML experiments
+* New developer tools
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 PRINCIPLE
+
+```text
+idea
+ ↓
+prototype
+ ↓
+break it
+ ↓
+fix it
+ ↓
+ship it
+ ↓
+learn
+ ↓
+repeat
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# ◈ SECRET TERMINAL
+
+<details>
+<summary><b>🔐 sudo reveal_secret</b></summary>
+
+<br>
+
+```text
+$ sudo reveal_secret
+
+ACCESS GRANTED...
+
+╭──────────────────────────────────────╮
+│                                      │
+│  There is no "perfect" first build. │
+│                                      │
+│  There is only:                     │
+│                                      │
+│       BUILD → BREAK → LEARN → BUILD │
+│                                      │
+│  That's the whole game.             │
+│                                      │
+╰──────────────────────────────────────╯
+
+> system message:
+> keep shipping.
+```
+
+</details>
+
+---
+
+# ◈ KNOWN BUGS
+
+<table>
+<tr>
+<td>🐛</td>
+<td><b>Too many ideas</b></td>
+<td>Working on turning ideas into finished projects.</td>
+</tr>
+<tr>
+<td>🐛</td>
+<td><b>Frontend obsession</b></td>
+<td>Backend currently loading...</td>
+</tr>
+<tr>
+<td>🐛</td>
+<td><b>"One more feature"</b></td>
+<td>Dangerous sentence.</td>
+</tr>
+<tr>
+<td>🐛</td>
+<td><b>Perfectionism</b></td>
+<td>Being replaced with iteration.</td>
+</tr>
+</table>
+
+---
+
+# ◈ CONNECT
+
+<div align="center">
+
+<a href="https://github.com/Ishika-143">
+<img src="https://img.shields.io/badge/GitHub-Ishika--143-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+ 
+
+<a href="https://github.com/Ishika-143?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Explore-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+**More links coming soon.**
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:312e81,50:111827,100:050505&animation=twinkling"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Thanks+for+stopping+by.;The+profile+is+still+under+construction.;Watch+it+evolve." />
+
+<br><br>
+
+`Ishika-143` · `B.Tech CSE` · `Build → Learn → Repeat`
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--              END OF ISHIKA'S DEVELOPER SYSTEM                 -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 
